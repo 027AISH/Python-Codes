@@ -1,0 +1,5 @@
+input("Enter your name :")
+input("Enter your weight :")
+input("Enter your height :")
+print("I know you are Chota Hatti")
+print("Hahahahahahahahahahah")
